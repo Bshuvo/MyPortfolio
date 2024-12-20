@@ -20,7 +20,7 @@ const Projects = () => {
 
         <div className="flex justify-center items-center flex-wrap gap-4 mt-5">
           <ProjectCard pic={bike} pro="BikerZone" link="https://bshuvo.github.io/BikerZone_Assignment-04/"/>
-          <ProjectCard pic={paint} pro="Paint" link="https://bshuvo.github.io/TeaHouse_webpage/"/>
+          <ProjectCard pic={paint} pro="Paint" link="https://bshuvo.github.io/EDGE_MIDTERM/"/>
           <ProjectCard pic={teahouse} pro="TeaHouse" link="https://bshuvo.github.io/TeaHouse_webpage/"/>
           <ProjectCard pic={bank} pro="BaperBank" link="https://bshuvo.github.io/BaperBank_Assignment/"/>
           <ProjectCard pic={todo} pro="TodoApp" link="https://bshuvo.github.io/TodoReact/"/>
